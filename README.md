@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sarika Gupta</h1>
 <h3 align="center">Developer at the verge!!</h3>
 
+ More About Me-https://sarika-portfolio.netlify.app/
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarikagupta14&label=Profile%20views&color=0e75b6&style=flat" alt="sarikagupta14" /> </p>
 - 📫 How to reach me **guptasaira34@gmail.com**
 
 
-- 🌱 I’m currently learning **Web development**
+
+- 🌱 I’m currently learning **Web development**<br>
+-  More About Me-https://sarika-portfolio.netlify.app/
  <img align="right" alt="coding" width="400px" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
