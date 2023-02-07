@@ -9,7 +9,7 @@
 
 
 - 🌱 I’m currently learning **Web development**<br>
--  More About Me-https://sarika-portfolio.netlify.app/
+
  <img align="right" alt="coding" width="400px" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
