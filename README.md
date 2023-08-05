@@ -4,7 +4,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarikagupta14&label=Profile%20views&color=0e75b6&style=flat" alt="sarikagupta14" /> </p>
-- 📫 How to reach me **guptasaira34@gmail.com**
+
 
 
 
