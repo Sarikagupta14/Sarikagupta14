@@ -9,7 +9,7 @@
 
 
 🌱 I’m currently learning **Node Js**.<br>
-👯 I’m looking to collaborate on open-source projects.
+👯 I’m looking to collaborate on open-source projects.<br>
 💬 Ask me about Javascript,ReactJs and ChakraUI.
 
 
