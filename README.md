@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarika Gupta</h1>
-<h3 align="center">Front-end Developer@Sanimation Studios</h3>
+<h3 align="center">Front-end Developer</h3>
 
 
 
@@ -8,8 +8,9 @@
 
 
 
-🌱 I’m currently learning **Node Js**<br>
+🌱 I’m currently learning **Node Js**.<br>
 👯 I’m looking to collaborate on open-source projects.
+💬 Ask me about Javascript,ReactJs and ChakraUI.
 
 
  <img align="right" alt="coding" width="400px" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
