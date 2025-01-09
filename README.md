@@ -8,9 +8,9 @@
 
 
 
-🌱 I’m currently learning **Node Js**.<br>
+🌱 I’m currently learning **Three.Js**.<br>
 👯 I’m looking to collaborate on open-source projects.<br>
-💬 Ask me about Javascript,ReactJs and ChakraUI.
+💬 Ask me about Javascript,ReactJs, React Native
 
 
  <img align="right" alt="coding" width="400px" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
